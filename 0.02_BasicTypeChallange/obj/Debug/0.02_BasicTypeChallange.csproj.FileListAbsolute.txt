@@ -1,0 +1,7 @@
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.02_BasicTypeChallange\obj\Debug\0.02_BasicTypeChallange.csprojResolveAssemblyReference.cache
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.02_BasicTypeChallange\obj\Debug\0.02_BasicTypeChallange.csproj.CoreCompileInputs.cache
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.02_BasicTypeChallange\bin\Debug\0.02_BasicTypeChallange.exe.config
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.02_BasicTypeChallange\bin\Debug\0.02_BasicTypeChallange.exe
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.02_BasicTypeChallange\bin\Debug\0.02_BasicTypeChallange.pdb
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.02_BasicTypeChallange\obj\Debug\0.02_BasicTypeChallange.exe
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.02_BasicTypeChallange\obj\Debug\0.02_BasicTypeChallange.pdb

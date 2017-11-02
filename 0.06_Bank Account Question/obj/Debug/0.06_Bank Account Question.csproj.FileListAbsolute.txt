@@ -1,0 +1,6 @@
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.06_Bank Account Question\obj\Debug\0.06_Bank Account Question.csproj.CoreCompileInputs.cache
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.06_Bank Account Question\bin\Debug\0.06_Bank Account Question.exe.config
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.06_Bank Account Question\bin\Debug\0.06_Bank Account Question.exe
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.06_Bank Account Question\bin\Debug\0.06_Bank Account Question.pdb
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.06_Bank Account Question\obj\Debug\0.06_Bank Account Question.exe
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.06_Bank Account Question\obj\Debug\0.06_Bank Account Question.pdb

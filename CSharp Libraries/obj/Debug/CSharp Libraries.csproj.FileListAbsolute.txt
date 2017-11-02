@@ -1,0 +1,7 @@
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\CSharp Libraries\bin\Debug\CSharp Libraries.exe.config
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\CSharp Libraries\bin\Debug\CSharp Libraries.exe
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\CSharp Libraries\bin\Debug\CSharp Libraries.pdb
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\CSharp Libraries\obj\Debug\CSharp Libraries.csprojResolveAssemblyReference.cache
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\CSharp Libraries\obj\Debug\CSharp Libraries.csproj.CoreCompileInputs.cache
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\CSharp Libraries\obj\Debug\CSharp Libraries.exe
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\CSharp Libraries\obj\Debug\CSharp Libraries.pdb

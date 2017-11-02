@@ -1,0 +1,7 @@
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.12 Game Build Along\obj\Debug\0.12 Game Build Along.csprojResolveAssemblyReference.cache
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.12 Game Build Along\obj\Debug\0.12 Game Build Along.csproj.CoreCompileInputs.cache
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.12 Game Build Along\bin\Debug\0.12 Game Build Along.exe.config
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.12 Game Build Along\bin\Debug\0.12 Game Build Along.exe
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.12 Game Build Along\bin\Debug\0.12 Game Build Along.pdb
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.12 Game Build Along\obj\Debug\0.12 Game Build Along.exe
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.12 Game Build Along\obj\Debug\0.12 Game Build Along.pdb

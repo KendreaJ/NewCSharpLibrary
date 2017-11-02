@@ -1,0 +1,7 @@
+C:\DotNetOctober\CSharp Libraries\0.15 Linq\obj\Debug\0.15 Linq.csprojResolveAssemblyReference.cache
+C:\DotNetOctober\CSharp Libraries\0.15 Linq\obj\Debug\0.15 Linq.csproj.CoreCompileInputs.cache
+C:\DotNetOctober\CSharp Libraries\0.15 Linq\bin\Debug\0.15 Linq.exe.config
+C:\DotNetOctober\CSharp Libraries\0.15 Linq\bin\Debug\0.15 Linq.exe
+C:\DotNetOctober\CSharp Libraries\0.15 Linq\bin\Debug\0.15 Linq.pdb
+C:\DotNetOctober\CSharp Libraries\0.15 Linq\obj\Debug\0.15 Linq.exe
+C:\DotNetOctober\CSharp Libraries\0.15 Linq\obj\Debug\0.15 Linq.pdb

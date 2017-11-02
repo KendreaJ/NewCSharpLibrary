@@ -1,0 +1,2 @@
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.02 Basic Types Kendrea Exercise\obj\Debug\0.02 Basic Types Kendrea Exercise.csproj.CoreCompileInputs.cache
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.02 Basic Types Kendrea Exercise\obj\Debug\0.02 Basic Types Kendrea Exercise.csprojResolveAssemblyReference.cache

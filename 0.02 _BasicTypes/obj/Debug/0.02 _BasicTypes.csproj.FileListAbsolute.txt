@@ -1,0 +1,7 @@
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.02 _BasicTypes\bin\Debug\0.02 _BasicTypes.exe.config
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.02 _BasicTypes\bin\Debug\0.02 _BasicTypes.exe
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.02 _BasicTypes\bin\Debug\0.02 _BasicTypes.pdb
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.02 _BasicTypes\obj\Debug\0.02 _BasicTypes.csprojResolveAssemblyReference.cache
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.02 _BasicTypes\obj\Debug\0.02 _BasicTypes.csproj.CoreCompileInputs.cache
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.02 _BasicTypes\obj\Debug\0.02 _BasicTypes.exe
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.02 _BasicTypes\obj\Debug\0.02 _BasicTypes.pdb

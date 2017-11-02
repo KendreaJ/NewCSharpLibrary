@@ -1,0 +1,2 @@
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.08_Objects\obj\Debug\0.08_Objects.csprojResolveAssemblyReference.cache
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.08_Objects\obj\Debug\0.08_Objects.csproj.CoreCompileInputs.cache

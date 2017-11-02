@@ -1,0 +1,7 @@
+C:\DotNetOctober\CSharp Libraries\0.13 Getters and Setters\bin\Debug\0.13 Getters and Setters.exe.config
+C:\DotNetOctober\CSharp Libraries\0.13 Getters and Setters\bin\Debug\0.13 Getters and Setters.exe
+C:\DotNetOctober\CSharp Libraries\0.13 Getters and Setters\bin\Debug\0.13 Getters and Setters.pdb
+C:\DotNetOctober\CSharp Libraries\0.13 Getters and Setters\obj\Debug\0.13 Getters and Setters.csprojResolveAssemblyReference.cache
+C:\DotNetOctober\CSharp Libraries\0.13 Getters and Setters\obj\Debug\0.13 Getters and Setters.csproj.CoreCompileInputs.cache
+C:\DotNetOctober\CSharp Libraries\0.13 Getters and Setters\obj\Debug\0.13 Getters and Setters.exe
+C:\DotNetOctober\CSharp Libraries\0.13 Getters and Setters\obj\Debug\0.13 Getters and Setters.pdb

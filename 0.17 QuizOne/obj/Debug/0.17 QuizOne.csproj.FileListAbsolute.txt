@@ -1,0 +1,1 @@
+C:\DotNetOctober\CSharp Libraries\0.17 QuizOne\obj\Debug\0.17 QuizOne.csproj.CoreCompileInputs.cache

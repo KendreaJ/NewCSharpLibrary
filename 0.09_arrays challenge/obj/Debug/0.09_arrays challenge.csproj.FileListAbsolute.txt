@@ -1,0 +1,2 @@
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.09_arrays challenge\obj\Debug\0.09_arrays challenge.csproj.CoreCompileInputs.cache
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.09_arrays challenge\obj\Debug\0.09_arrays challenge.csprojResolveAssemblyReference.cache

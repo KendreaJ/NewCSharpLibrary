@@ -1,0 +1,7 @@
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.07_Loops\obj\Debug\0.07_Loops.csproj.CoreCompileInputs.cache
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.07_Loops\bin\Debug\0.07_Loops.exe.config
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.07_Loops\bin\Debug\0.07_Loops.exe
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.07_Loops\bin\Debug\0.07_Loops.pdb
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.07_Loops\obj\Debug\0.07_Loops.exe
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.07_Loops\obj\Debug\0.07_Loops.pdb
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.07_Loops\obj\Debug\0.07_Loops.csprojResolveAssemblyReference.cache

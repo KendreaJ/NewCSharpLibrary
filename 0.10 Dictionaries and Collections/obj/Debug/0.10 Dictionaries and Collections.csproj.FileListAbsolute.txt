@@ -1,0 +1,7 @@
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.10 Dictionaries and Collections\bin\Debug\0.10 Dictionaries and Collections.exe.config
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.10 Dictionaries and Collections\bin\Debug\0.10 Dictionaries and Collections.exe
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.10 Dictionaries and Collections\bin\Debug\0.10 Dictionaries and Collections.pdb
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.10 Dictionaries and Collections\obj\Debug\0.10 Dictionaries and Collections.csprojResolveAssemblyReference.cache
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.10 Dictionaries and Collections\obj\Debug\0.10 Dictionaries and Collections.csproj.CoreCompileInputs.cache
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.10 Dictionaries and Collections\obj\Debug\0.10 Dictionaries and Collections.exe
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.10 Dictionaries and Collections\obj\Debug\0.10 Dictionaries and Collections.pdb

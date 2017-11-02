@@ -1,0 +1,7 @@
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.12_OOP_Game Object Oriented Projects\bin\Debug\0.12_OOP_Game Object Oriented Projects.exe.config
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.12_OOP_Game Object Oriented Projects\bin\Debug\0.12_OOP_Game Object Oriented Projects.exe
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.12_OOP_Game Object Oriented Projects\bin\Debug\0.12_OOP_Game Object Oriented Projects.pdb
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.12_OOP_Game Object Oriented Projects\obj\Debug\0.12_OOP_Game Object Oriented Projects.csproj.CoreCompileInputs.cache
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.12_OOP_Game Object Oriented Projects\obj\Debug\0.12_OOP_Game Object Oriented Projects.exe
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.12_OOP_Game Object Oriented Projects\obj\Debug\0.12_OOP_Game Object Oriented Projects.pdb
+C:\Users\EFA Computer 3\Desktop\Kendrea\DotNetOctober\CSharp Libraries\0.12_OOP_Game Object Oriented Projects\obj\Debug\0.12_OOP_Game Object Oriented Projects.csprojResolveAssemblyReference.cache
